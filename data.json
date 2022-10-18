@@ -1,0 +1,34 @@
+{
+   "pizzas":[
+      {
+         "label":"14149068",
+         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+         "contains":"оч вкусная пицца",
+         "price":"345.45 р"
+      },
+      {
+         "label":"141496",
+         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+         "contains":"оч вкусная пицца",
+         "price":"345.45 р"
+      },
+      {
+         "label":"1414906",
+         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+         "contains":"оч вкусная пицца",
+         "price":"345.45 р"
+      },
+      {
+         "label":"1414906=86",
+         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+         "contains":"оч вкусная пицца",
+         "price":"345.45 р"
+      },
+      {
+         "label":"14490686",
+         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+         "contains":"оч вкусная пицца",
+         "price":"345.45 р"
+      }
+   ]
+}
