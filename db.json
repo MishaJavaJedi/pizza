@@ -3,19 +3,19 @@
        {
           "label":"Ветчина и грибы",
           "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
-          "contains":"Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус",
+          "contains":"Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус.",
           "price":"345.45 р"
        },
        {
           "label":"Баварские колбаски",
           "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
-          "contains":"Баварские колбаски, ветчина,пикантная пепперони, острая чоризо,томатный соус",
+          "contains":"Баварские колбаски, ветчина,пикантная пепперони, острая чоризо,томатный соус.",
           "price":"345.45 р"
        },
        {
           "label":"Нежный лосось",
           "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
-          "contains":"Лосось, томаты, оливки,соус песто,помидорки черри",
+          "contains":"Лосось, томаты, оливки,соус песто,помидорки черри.",
           "price":"345.45 р"
        },
        {
