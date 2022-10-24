@@ -19,15 +19,21 @@
           "price":"345.45 р"
        },
        {
-          "label":"1414906=86",
+         "label":"Ветчина и грибы",
           "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
-          "contains":"оч вкусная пицца",
+          "contains":"Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус.",
           "price":"345.45 р"
        },
        {
-          "label":"14490686",
+          "label":"Баварские колбаски",
           "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
-          "contains":"оч вкусная пицца",
+          "contains":"Баварские колбаски, ветчина,пикантная пепперони, острая чоризо,томатный соус.",
+          "price":"345.45 р"
+       },
+       {
+         "label":"Ветчина и грибы",
+          "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+          "contains":"Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус.",
           "price":"345.45 р"
        }
     ]
