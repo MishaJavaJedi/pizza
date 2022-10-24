@@ -2,39 +2,58 @@
     "pizzas":[
        {
           "label":"Ветчина и грибы",
-          "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+          "image":"https://as1.ftcdn.net/v2/jpg/02/18/45/96/1000_F_218459600_4hXqangY2fz8YnXYU8yJNJZ8pWpAlv1f.jpg",
           "contains":"Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус.",
           "price":"345.45 р"
        },
        {
           "label":"Баварские колбаски",
-          "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+          "image":"https://as1.ftcdn.net/v2/jpg/02/18/45/96/1000_F_218459600_4hXqangY2fz8YnXYU8yJNJZ8pWpAlv1f.jpg",
           "contains":"Баварские колбаски, ветчина,пикантная пепперони, острая чоризо,томатный соус.",
           "price":"345.45 р"
        },
        {
           "label":"Нежный лосось",
-          "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+          "image":"https://as1.ftcdn.net/v2/jpg/02/18/45/96/1000_F_218459600_4hXqangY2fz8YnXYU8yJNJZ8pWpAlv1f.jpg",
           "contains":"Лосось, томаты, оливки,соус песто,помидорки черри.",
           "price":"345.45 р"
        },
        {
          "label":"Ветчина и грибы",
-          "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+          "image":"https://as1.ftcdn.net/v2/jpg/02/18/45/96/1000_F_218459600_4hXqangY2fz8YnXYU8yJNJZ8pWpAlv1f.jpg",
           "contains":"Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус.",
           "price":"345.45 р"
        },
        {
           "label":"Баварские колбаски",
-          "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+          "image":"https://as1.ftcdn.net/v2/jpg/02/18/45/96/1000_F_218459600_4hXqangY2fz8YnXYU8yJNJZ8pWpAlv1f.jpg",
           "contains":"Баварские колбаски, ветчина,пикантная пепперони, острая чоризо,томатный соус.",
           "price":"345.45 р"
        },
        {
          "label":"Ветчина и грибы",
-          "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+          "image":"https://as1.ftcdn.net/v2/jpg/02/18/45/96/1000_F_218459600_4hXqangY2fz8YnXYU8yJNJZ8pWpAlv1f.jpg",
           "contains":"Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус.",
           "price":"345.45 р"
+       },
+       {
+         "label":"Ветчина и грибы",
+          "image":"https://as1.ftcdn.net/v2/jpg/02/18/45/96/1000_F_218459600_4hXqangY2fz8YnXYU8yJNJZ8pWpAlv1f.jpg",
+          "contains":"Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус.",
+          "price":"345.45 р"
+       },
+       {
+          "label":"Баварские колбаски",
+          "image":"https://as1.ftcdn.net/v2/jpg/02/18/45/96/1000_F_218459600_4hXqangY2fz8YnXYU8yJNJZ8pWpAlv1f.jpg",
+          "contains":"Баварские колбаски, ветчина,пикантная пепперони, острая чоризо,томатный соус.",
+          "price":"345.45 р"
+       },
+       {
+          "label":"Нежный лосось",
+          "image":"https://as1.ftcdn.net/v2/jpg/02/18/45/96/1000_F_218459600_4hXqangY2fz8YnXYU8yJNJZ8pWpAlv1f.jpg",
+          "contains":"Лосось, томаты, оливки,соус песто,помидорки черри.",
+          "price":"345.45 р"
        }
+    
     ]
  }
